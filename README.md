@@ -2,7 +2,7 @@
 ### My name is Alexsander!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/alexcristofari)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexcristofari)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexsander-cristofari-56b7a6237/)
 
 Receive! I'm Alexsander and I'm currently studying Computer Science at Franciscan University
 
