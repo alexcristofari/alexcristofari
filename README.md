@@ -25,4 +25,5 @@ Receive! I'm Alexsander and I'm currently studying Computer Science at Francisca
 <br />
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
