@@ -6,7 +6,6 @@
 
 Receive! I'm Alexsander and I'm currently studying Computer Science at Franciscan University
 
-<img align="right" alt="img" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
