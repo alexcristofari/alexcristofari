@@ -5,7 +5,7 @@
 
 Ciência da Computação 
 
-Futuro Desenvolvedor Frontend 
+Desenvolvedor Frontend 
 
 ####  Aprendendo Linguagens: 
 <p>
