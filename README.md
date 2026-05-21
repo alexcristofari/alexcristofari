@@ -10,7 +10,7 @@
 Desenvolvedor Front-end | Machine Learning | Qualidade de Software  
 Santa Maria, RS | 23 anos  
 
-Busco oportunidades para desenvolver interfaces web ou criação de sites com **React, JavaScript, HTML e CSS**, combinando conhecimento em **Inteligência Artificial** (automação, Machine Learning) e **Qualidade de Software** (testes, processos ágeis). Tenho experiência em desenvolvimento web, consumo de APIs, otimização de performance e normas de direito digital (Compliance, LGPD).
+Busco oportunidades para desenvolver interfaces web ou criação de sites com **React, JavaScript, HTML e CSS**, combinando conhecimento em **Inteligência Artificial** (automação, RAG, Agentes Autônomos) e **Qualidade de Software** (testes, processos ágeis). Tenho experiência em desenvolvimento web, consumo de APIs, orquestração de LLMs, otimização de performance e normas de direito digital (Compliance, LGPD).
 
 ---
 
@@ -23,26 +23,25 @@ Busco oportunidades para desenvolver interfaces web ou criação de sites com **
 
 ### Back-end & Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F4?style=for-the-badge&logo=spring-boot)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### Inteligência Artificial & Automação
+### Inteligência Artificial & Bancos Vetoriais
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-057A55?style=for-the-badge&logo=n8n&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=database&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=ml&logoColor=white)
 
 ### Qualidade de Software & DevOps
 ![Scrum](https://img.shields.io/badge/Scrum-000000?style=for-the-badge&logo=scrum&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-000000?style=for-the-badge&logo=kanban&logoColor=white)
 ![Compliance](https://img.shields.io/badge/Compliance-2E86C1?style=for-the-badge&logo=check&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD-28A745?style=for-the-badge&logo=shield&logoColor=white)
 
 ### Ferramentas & Design
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black)
-![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ### Idiomas
 - 🇧🇷 Português (Nativo)
@@ -51,37 +50,40 @@ Busco oportunidades para desenvolver interfaces web ou criação de sites com **
 ---
 
 ##  Projetos em Destaque
-### 1. [App Mobile de Autenticação em Kotlin](https://github.com/alexcristofari/app-mobile-kotlin)  
+
+### 1. [Code Review Agent (IA Autônoma)](https://github.com/alexcristofari/code-review-agent)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) 
+- Sistema automatizado de auditoria de código utilizando Agentes Autônomos e LLMs via State Graphs.
+- Arquitetura multi-agente orquestrada para análise profunda de Segurança, Qualidade e Performance.
+- Implementação de métricas avançadas com rastreamento de uso de tokens da API para controle FinOps.
+- **Tecnologias:** Python, LangGraph, LangChain, OpenAI API, Streamlit.
+
+### 2. [Code Intelligence (Sistema RAG)](https://github.com/alexcristofari/code-intelligence)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF4B4B?style=for-the-badge&logo=database&logoColor=white)
+- Sistema de Recuperação Aumentada por Geração (RAG) projetado para ler, indexar e explicar grandes bases de código.
+- Implementação de banco de dados vetorial para busca semântica em funções, classes e arquiteturas completas de software.
+- **Tecnologias:** Python, LangChain, ChromaDB, OpenAI Embeddings.
+
+### 3. [MatchGame Fullstack](https://github.com/alexcristofari/Matchgame)  
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+- Desenvolvimento fullstack de um ecossistema interativo com ambiente totalmente containerizado.
+- Gestão e integração de banco de dados com orquestração de dependências via pnpm.
+- **Tecnologias:** Node.js, Docker, Bancos de Dados.
+
+### 4. [App Mobile de Autenticação em Kotlin](https://github.com/alexcristofari/app-mobile-kotlin)  
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
-- Desenvolvimento de aplicativo Android com autenticação e cadastro via SQLite  
-- Implementação de banco de dados local para gerenciamento de usuários  
-- **Tecnologias:** Kotlin, SQLite, Android Studio  
-
-### 2. [Automação de Processos com IA](https://github.com/alexcristofari/automacao-ia)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-- Automação de fluxos de trabalho com n8n e Python  
-- Experimentos com Machine Learning usando TensorFlow  
-- **Tecnologias:** Python, TensorFlow, n8n  
-
-### 3. [Dashboard de Vendas em React](https://github.com/alexcristofari/dashboard-vendas)  
-*(Em desenvolvimento)*  
-- Dashboard interativo para análise de dados de vendas  
-- Consumo de API REST com gráficos dinâmicos (Chart.js)  
-- **Tecnologias:** React, JavaScript, Chart.js  
-
-### 4. [Sistema de Testes Automatizados](https://github.com/alexcristofari/testes-automatizados)  
-*(Em desenvolvimento)*  
-- Testes E2E para aplicações web com Cypress  
-- Integração com GitHub Actions para CI/CD  
-- **Tecnologias:** Cypress, JavaScript, GitHub Actions  
+- Desenvolvimento de aplicativo Android com autenticação e cadastro via SQLite.  
+- Implementação de banco de dados local para gerenciamento de usuários.  
+- **Tecnologias:** Kotlin, SQLite, Android Studio.  
 
 ---
 
 ## 📊 Estatísticas no GitHub
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; gap: 30px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexcristofari&show_icons=true&theme=radical&hide_title=true&card_width=400" height="130" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcristofari&layout=compact&theme=radical&hide_title=true&card_width=400" height="130" />
+    <!-- Estatísticas forçadas a ignorar cache com cores customizadas monocromáticas -->
+    <img src="https://github-readme-stats.vercel.app/api?username=alexcristofari&show_icons=true&bg_color=121212&text_color=EAEAEA&icon_color=FFFFFF&title_color=FFFFFF&hide_border=true&hide_title=true&card_width=400&cache_seconds=1800" height="130" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexcristofari&layout=compact&bg_color=121212&text_color=EAEAEA&hide_border=true&hide_title=true&card_width=400&cache_seconds=1800" height="130" />
   </div>
 </div>
 
